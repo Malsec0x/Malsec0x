@@ -23,30 +23,6 @@
 <be>
 
 
-##  Frontend 
-
-[![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) 
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#) 
-[![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=white)](#)
-[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
-[![Firebase Badge](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#) 
-[![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) 
-[![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
-<img src="https://img.shields.io/badge/React_Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/> 
-
-##  Backend  
-[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
-[![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
-[![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
